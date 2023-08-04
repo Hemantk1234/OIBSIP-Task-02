@@ -2,7 +2,7 @@
 
 # 💁‍♂️Tribute Page: Elon Musk
 
-![Elon Musk]()
+![Elon Musk](https://github.com/Hemantk1234/OIBSIP-Task-02/assets/125623888/2a78eb75-b20a-4d4b-b4ce-74c6894c9616)
 
 This is a tribute page dedicated to Elon Musk, the visionary entrepreneur and business magnate.
 
